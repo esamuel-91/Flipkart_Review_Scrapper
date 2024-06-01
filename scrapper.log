@@ -1,0 +1,69 @@
+2024-06-01 18:46:46,805 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.103:5000
+2024-06-01 18:46:46,805 | INFO | [33mPress CTRL+C to quit[0m
+2024-06-01 18:47:00,842 | INFO | 127.0.0.1 - - [01/Jun/2024 18:47:00] "GET / HTTP/1.1" 200 -
+2024-06-01 18:47:00,865 | INFO | 127.0.0.1 - - [01/Jun/2024 18:47:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-01 18:47:00,866 | INFO | 127.0.0.1 - - [01/Jun/2024 18:47:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2024-06-01 18:47:06,641 | INFO | 127.0.0.1 - - [01/Jun/2024 18:47:06] "POST /review HTTP/1.1" 200 -
+2024-06-01 18:47:06,650 | INFO | 127.0.0.1 - - [01/Jun/2024 18:47:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2024-06-01 18:47:06,650 | INFO | 127.0.0.1 - - [01/Jun/2024 18:47:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-01 18:53:54,211 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.103:5000
+2024-06-01 18:53:54,211 | INFO | [33mPress CTRL+C to quit[0m
+2024-06-01 18:54:06,020 | INFO | 127.0.0.1 - - [01/Jun/2024 18:54:06] "GET / HTTP/1.1" 200 -
+2024-06-01 18:54:06,045 | INFO | 127.0.0.1 - - [01/Jun/2024 18:54:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-01 18:54:06,046 | INFO | 127.0.0.1 - - [01/Jun/2024 18:54:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2024-06-01 18:54:12,371 | DEBUG | Starting new HTTPS connection (1): www.flipkart.com:443
+2024-06-01 18:54:13,285 | DEBUG | https://www.flipkart.com:443 "GET /apple-iphone-12-black-64-gb/p/itma2559422bf7c7?pid=MOBFWBYZU5FWK2VP&lid=LSTMOBFWBYZU5FWK2VPQTNJSG&marketplace=FLIPKART&q=iPhone12&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=3fed09ad-52b0-4daa-9747-2a27711c1d1f.MOBFWBYZU5FWK2VP.SEARCH&ppt=None&ppn=None&ssid=bmkq02ba680000001717248252116&qH=758318e46fb9e540 HTTP/1.1" 200 None
+2024-06-01 18:54:13,483 | INFO | log my final result [{'Product': 'iPhone12', 'Name': 'Anurag Lad', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'The brand is very trustworthy and i got genuine pice at a very low cost.I ordered the green one and trust me the colour was amazing.All the colours but specifically green and purple are nice for look.Thanks to flipkart❤️READ MORE'}, {'Product': 'iPhone12', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Wow superb camera phone Very smooth speed and no lag , iphone is the king always Its a beautiful productREAD MORE'}, {'Product': 'iPhone12', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Nice phone with good build qualityExcellent CameraREAD MORE'}, {'Product': 'iPhone12', 'Name': 'Shivam Kengale', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Go for itREAD MORE'}, {'Product': 'iPhone12', 'Name': 'Arjun  Chakravarti ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'AwesomeREAD MORE'}, {'Product': 'iPhone12', 'Name': 'Rupesh Thik', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Awesome CameraREAD MORE'}, {'Product': 'iPhone12', 'Name': 'Sibsankar Das', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Camera quality is just fabulous. Interface is very smooth.  Good for photography and videography.READ MORE'}, {'Product': 'iPhone12', 'Name': 'Lenlen Yashu', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Love it.READ MORE'}, {'Product': 'iPhone12', 'Name': 'Najir  Hussain ', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Awesome camera quality…just love itREAD MORE'}, {'Product': 'iPhone12', 'Name': 'Dheeraj Singh', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'ExcellentREAD MORE'}]
+2024-06-01 18:54:13,486 | INFO | 127.0.0.1 - - [01/Jun/2024 18:54:13] "POST /review HTTP/1.1" 200 -
+2024-06-01 18:54:13,495 | INFO | 127.0.0.1 - - [01/Jun/2024 18:54:13] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2024-06-01 18:54:13,496 | INFO | 127.0.0.1 - - [01/Jun/2024 18:54:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-01 18:54:24,674 | DEBUG | Starting new HTTPS connection (1): www.flipkart.com:443
+2024-06-01 18:54:25,678 | DEBUG | https://www.flipkart.com:443 "GET /apple-iphone-13-green-128-gb/p/itm18a55937b2607?pid=MOBGC9VGSU9DWGJZ&lid=LSTMOBGC9VGSU9DWGJZUXUVYB&marketplace=FLIPKART&q=iPhone13&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=6fdad264-ca2a-4eac-a0b7-1d02b54a047c.MOBGC9VGSU9DWGJZ.SEARCH&ppt=None&ppn=None&ssid=64knirh71c0000001717248264416&qH=bfa428a059e45562 HTTP/1.1" 200 None
+2024-06-01 18:54:26,021 | INFO | log my final result [{'Product': 'iPhone13', 'Name': 'Badri Bishal  Pratihari ', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Love this phone..... 😍READ MORE'}, {'Product': 'iPhone13', 'Name': 'Mahim Chauhan', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I switch to ios from android after 10 years so this review might help for migratorsIt’s been a month using the iPhone13 and this was my experience1. Design - its simple and no nonsense design . Expect white and pink rest of the colours are fingerprint magnets.  I have seen all the colours and I highly recommend the pink . It’s so light pink which makes it not girlish. See it for yourself it really looks so premium in light pink colour. For rest of it except white the aluminium frame wil...READ MORE'}, {'Product': 'iPhone13', 'Name': 'Arnab Das', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome battery backup amazing camera, a all day batter backup  improved and brilliant IOs 16.1 oled display dolby speakers and lot more, just close your eyes and go for it. One of the best handy smartphones ever and in great discount given by flipkart in big billion days 🔥READ MORE'}, {'Product': 'iPhone13', 'Name': 'Tulasiram SABBAVARAPU', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Best phone in recent times I have used in my lifeREAD MORE'}, {'Product': 'iPhone13', 'Name': 'Shivang Palyal', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This is awosome .. camera is best . Here some photos i m sharing with you guys ..READ MORE'}, {'Product': 'iPhone13', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I upgraded to 13 from xs and my experience with this had been extraordinary . The user interface and the camera is too good .Just in love with this extraordinary device .I just shared some photos clicked from this phone so that everyone can have an idea about how good the camera is compared all other flagship devices . The lens inside the device is so efficient that it  automatically reduces the noise in the picture making it very crisp and clear  .READ MORE'}, {'Product': 'iPhone13', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Happy to have this phoneREAD MORE'}, {'Product': 'iPhone13', 'Name': 'Pushpita Mayra', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Awesome phone Excellent camera qualityREAD MORE'}, {'Product': 'iPhone13', 'Name': 'Ashish  Kumar', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Just amazingREAD MORE'}, {'Product': 'iPhone13', 'Name': 'Ajay Kr', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Awesome camera..I m love  itREAD MORE'}]
+2024-06-01 18:54:26,021 | INFO | 127.0.0.1 - - [01/Jun/2024 18:54:26] "POST /review HTTP/1.1" 200 -
+2024-06-01 18:54:26,033 | INFO | 127.0.0.1 - - [01/Jun/2024 18:54:26] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2024-06-01 18:54:26,034 | INFO | 127.0.0.1 - - [01/Jun/2024 18:54:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-01 19:00:07,070 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.103:5000
+2024-06-01 19:00:07,071 | INFO | [33mPress CTRL+C to quit[0m
+2024-06-01 19:00:25,481 | INFO | 127.0.0.1 - - [01/Jun/2024 19:00:25] "GET / HTTP/1.1" 200 -
+2024-06-01 19:00:25,501 | INFO | 127.0.0.1 - - [01/Jun/2024 19:00:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2024-06-01 19:00:25,501 | INFO | 127.0.0.1 - - [01/Jun/2024 19:00:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-01 19:00:48,870 | DEBUG | Starting new HTTPS connection (1): www.flipkart.com:443
+2024-06-01 19:00:55,987 | DEBUG | https://www.flipkart.com:443 "GET /apple-iphone-12-white-64-gb/p/itm8b88bdc03cd79?pid=MOBFWBYZTK33MBG9&lid=LSTMOBFWBYZTK33MBG98APVO4&marketplace=FLIPKART&q=iPhone12&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=232c6333-c950-4f45-a828-9288b6b25eea.MOBFWBYZTK33MBG9.SEARCH&ppt=None&ppn=None&ssid=ty0rwkaotc0000001717248646391&qH=758318e46fb9e540 HTTP/1.1" 200 None
+2024-06-01 19:00:57,202 | ERROR | Oops you got an error: name 'fwrite' is not defined
+Traceback (most recent call last):
+  File "/Users/egglistens/Python/flipkart_webscrapping/application.py", line 72, in index
+    fwrite.write(f"{searchString}, {name}, {rating}, {commentHead}, {custComment}\n")
+NameError: name 'fwrite' is not defined
+2024-06-01 19:00:57,203 | INFO | 127.0.0.1 - - [01/Jun/2024 19:00:57] "POST /review HTTP/1.1" 200 -
+2024-06-01 19:01:08,229 | DEBUG | Starting new HTTPS connection (1): www.flipkart.com:443
+2024-06-01 19:01:15,941 | DEBUG | https://www.flipkart.com:443 "GET /apple-iphone-12-white-64-gb/p/itm8b88bdc03cd79?pid=MOBFWBYZTK33MBG9&lid=LSTMOBFWBYZTK33MBG98APVO4&marketplace=FLIPKART&q=iPhone12&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=b930cd91-dc65-4d8c-bb07-074d25ee11bb.MOBFWBYZTK33MBG9.SEARCH&ppt=None&ppn=None&ssid=apb8bkccu80000001717248663884&qH=758318e46fb9e540 HTTP/1.1" 200 None
+2024-06-01 19:01:36,053 | ERROR | Oops you got an error: name 'fwrite' is not defined
+Traceback (most recent call last):
+  File "/Users/egglistens/Python/flipkart_webscrapping/application.py", line 72, in index
+    fwrite.write(f"{searchString}, {name}, {rating}, {commentHead}, {custComment}\n")
+NameError: name 'fwrite' is not defined
+2024-06-01 19:01:36,054 | INFO | 127.0.0.1 - - [01/Jun/2024 19:01:36] "POST /review HTTP/1.1" 200 -
+2024-06-01 19:02:35,966 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.103:5000
+2024-06-01 19:02:35,966 | INFO | [33mPress CTRL+C to quit[0m
+2024-06-01 19:02:41,778 | INFO | 127.0.0.1 - - [01/Jun/2024 19:02:41] "GET / HTTP/1.1" 200 -
+2024-06-01 19:02:41,802 | INFO | 127.0.0.1 - - [01/Jun/2024 19:02:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-06-01 19:02:41,803 | INFO | 127.0.0.1 - - [01/Jun/2024 19:02:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2024-06-01 19:03:20,475 | DEBUG | Starting new HTTPS connection (1): www.flipkart.com:443
+2024-06-01 19:03:23,075 | DEBUG | https://www.flipkart.com:443 "GET /apple-iphone-12-white-64-gb/p/itm8b88bdc03cd79?pid=MOBFWBYZTK33MBG9&lid=LSTMOBFWBYZTK33MBG98APVO4&marketplace=FLIPKART&q=iPhone12&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=31b406cf-05c6-4e18-9a91-1563ea232b1d.MOBFWBYZTK33MBG9.SEARCH&ppt=None&ppn=None&ssid=ons0xvlfk00000001717248781273&qH=758318e46fb9e540 HTTP/1.1" 200 None
+2024-06-01 19:03:24,145 | INFO | log my final result [{'Product': 'iPhone12', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Nice phone with good build qualityExcellent CameraREAD MORE'}, {'Product': 'iPhone12', 'Name': 'Anurag Lad', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'The brand is very trustworthy and i got genuine pice at a very low cost.I ordered the green one and trust me the colour was amazing.All the colours but specifically green and purple are nice for look.Thanks to flipkart❤️READ MORE'}, {'Product': 'iPhone12', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Wow superb camera phone Very smooth speed and no lag , iphone is the king always Its a beautiful productREAD MORE'}, {'Product': 'iPhone12', 'Name': 'Shivam Kengale', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Go for itREAD MORE'}, {'Product': 'iPhone12', 'Name': 'Rupesh Thik', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Awesome CameraREAD MORE'}, {'Product': 'iPhone12', 'Name': 'Arjun  Chakravarti ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'AwesomeREAD MORE'}, {'Product': 'iPhone12', 'Name': 'Sibsankar Das', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Camera quality is just fabulous. Interface is very smooth.  Good for photography and videography.READ MORE'}, {'Product': 'iPhone12', 'Name': 'Lenlen Yashu', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Love it.READ MORE'}, {'Product': 'iPhone12', 'Name': 'Najir  Hussain ', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Awesome camera quality…just love itREAD MORE'}, {'Product': 'iPhone12', 'Name': 'Dheeraj Singh', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'ExcellentREAD MORE'}]
+2024-06-01 19:03:24,148 | INFO | 127.0.0.1 - - [01/Jun/2024 19:03:24] "POST /review HTTP/1.1" 200 -
+2024-06-01 19:03:24,158 | INFO | 127.0.0.1 - - [01/Jun/2024 19:03:24] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2024-06-01 19:03:24,160 | INFO | 127.0.0.1 - - [01/Jun/2024 19:03:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
